@@ -1,0 +1,152 @@
+[
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549882181406,
+            "changeTime": 1549882181406,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549882181406,
+            "changeTime": 1549882181406,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549882181407,
+            "changeTime": 1549882181407,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549882181406,
+            "changeTime": 1549882181406,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549882361804,
+            "changeTime": 1549882361804,
+            "contentHash": "f4583d5a48808dcbf21a01302c79dec6aea5885b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc\\myFirstWebComponent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc\\myFirstWebComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549882361804,
+            "changeTime": 1549882361804,
+            "contentHash": "35e618f5dfdafda9f1b94f5e031bbed9550ecf56",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc\\myFirstWebComponent\\myFirstWebComponent.html",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc\\myFirstWebComponent\\myFirstWebComponent.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 340,
+            "modifiedTime": 1549882987399,
+            "changeTime": 1549882987399,
+            "contentHash": "480b9a2e708adf14ba12b16abd51d825dbd54add",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc\\myFirstWebComponent\\myFirstWebComponent.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc\\myFirstWebComponent\\myFirstWebComponent.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 466,
+            "modifiedTime": 1549882580834,
+            "changeTime": 1549882580834,
+            "contentHash": "36961d38a709b3451a4fe2d8b3ba163f075592e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc\\myFirstWebComponent\\myFirstWebComponent.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead\\force-app\\main\\default\\lwc\\myFirstWebComponent\\myFirstWebComponent.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1549882386966,
+            "changeTime": 1549882386966,
+            "contentHash": "b136e59d041bbbfd56bd6b8979e63d44b9af0ea6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Luke.Secomb\\Documents\\GitHub\\lightening-web-component-playground\\trailhead",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549882200234,
+            "changeTime": 1549882200234,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
