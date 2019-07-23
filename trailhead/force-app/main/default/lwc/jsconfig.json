@@ -2,10 +2,28 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/componentNumberTwo": [
+                "componentNumberTwo/componentNumberTwo.js"
+            ],
+            "c/myFirstWebComponent": [
+                "myFirstWebComponent/myFirstWebComponent.js"
+            ],
+            "c/GithubAPI": [
+                "GithubAPI/GithubAPI.js"
+            ],
+            "c/githubAPI": [
+                "githubAPI/githubAPI.js"
+            ]
+        }
     },
     "include": [
         "**/*",
         "../../../../.sfdx/typings/lwc/**/*.d.ts"
-    ]
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
 }
